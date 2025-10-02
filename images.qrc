@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/spaceship">
+        <file>spaceship4.png</file>
+        <file>spaceship5.png</file>
+        <file>spaceship6.png</file>
+    </qresource>
+    <qresource prefix="/bullet">
+        <file>bullet1.png</file>
+    </qresource>
+    <qresource prefix="/Asteroids">
+        <file>Asteroid1.png</file>
+        <file>Asteroid2.png</file>
+        <file>Asteroid3.png</file>
+    </qresource>
+    <qresource prefix="/space">
+        <file>space.jpg</file>
+        <file>amin.jpg</file>
+    </qresource>
+    <qresource prefix="/bulletSound">
+        <file>laser1.mp3</file>
+        <file>laser2.mp3</file>
+    </qresource>
+    <qresource prefix="/comet">
+        <file>comet.png</file>
+    </qresource>
+</RCC>
